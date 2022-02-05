@@ -41,11 +41,56 @@ Assignments and deliverables are designed to enable progress. Once class starts 
 Grading
 -------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Individual work and contributions | 20% |
-| Project foundation management toolkit | 30% |
-| Host portfolio | 30% |
-| Sloan portfolio | 20%; [Sloan Innovation Period (SIP)](http://mitsloan.mit.edu/student-blogs/mfin-2015/sloan-innovation-period-sip/) credit 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual work and contributions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project foundation management toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sloan portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+20%; [Sloan Innovation Period (SIP)](http://mitsloan.mit.edu/student-blogs/mfin-2015/sloan-innovation-period-sip/) credit
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A more detailed description of the assignment components and schedule of deliverables are provided on the [Assignments]({{< baseurl >}}/pages/assignments) page.

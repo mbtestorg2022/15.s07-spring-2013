@@ -6,54 +6,630 @@ title: Deliverables and Action Steps
 uid: 564190aa-addb-75cb-a44f-633498ae2eb9
 ---
 
-| WEEK # | DUE DATES | CATEGORIES | DELIVERABLES / ACTION STEPS |
-| --- | --- | --- | --- |
-| Over IAP | &nbsp; | Prep/logistics |  {{< br >}}{{< br >}} Select and read a global health book from the reading list {{< br >}}{{< br >}} Complete introductory emails and calls with the host; conduct the hand-off meeting {{< br >}}{{< br >}} Complete the quick visa survey {{< br >}}{{< br >}}  |
-| 1  {{< br >}}  | Week of  {{< br >}}  | Prep/logistics |  {{< br >}}{{< br >}} Make a travel medicine appointment {{< br >}}{{< br >}} Assemble Letter of Invitation templates for the team; send to host {{< br >}}{{< br >}}  |
-| Project toolkit | Arrange mentor meeting 1 |
-| Wednesday | Project toolkit | WedUp 1 |
-| Friday  {{< br >}}  | Individual | Professional development plan |
-| Project toolkit | Organizational profile |
-| 2 | Week of  {{< br >}}  | Prep/logistics | Research and plan visa application |
-| Sloan portfolio |  {{< br >}}{{< br >}} Define project distilling learning from the field with teammate; integrate into workplan {{< br >}}{{< br >}} Review photo and video guide. {{< br >}}{{< br >}}  |
-| Wednesday | Project toolkit | WedUp 2 |
-| Friday | Project toolkit | Workplan draft |
-| 3 |
-| Week of  {{< br >}}  | Project toolkit | Arrange mentor meeting 1 |
-| Prep/logistics | Arrange air tickets |
-| Wednesday | Project toolkit | WedUp 3 |
-| Friday | Host portfolio | Send workplan to host and copy mentor; obtain host agreement |
-| 4 | Week of | Prep/logistics | Make lodging arrangements with host |
-| Wednesday | Project toolkit | WedUp 4 |
-| Thursday | Prep/logistics | Check in with Sloan Action Learning and Sloan Financing & Accounting staff on trip expenses |
-| Friday | Project toolkit | Country briefing |
-| 5 |
-| Week of  {{< br >}}  | Project toolkit |  {{< br >}}{{< br >}} Send outline/draft interim study to mentor {{< br >}}{{< br >}} Arrange mentor meeting 3 {{< br >}}{{< br >}}  |
-| Prep/logistics | Review packing and preparation guide |
-| Wednesday | Project toolkit | WedUp 5 |
-| Friday | Host portfolio | Annotated bibliography |
-| 6 | Week of  {{< br >}}  | Project toolkit | Arrange mentor meeting 4 |
-| Prep/logistics | Provide Sloan Action Learning with contact information |
-| Wednesday | Project toolkit | WedUp 6 |
-| Friday | Host portfolio | Pre-trip interim study |
-| 7 |
-| Week of | Prep/logistics |  {{< br >}}{{< br >}} Check in with course team upon arrival {{< br >}}{{< br >}} Work with mentor for visit logistics {{< br >}}{{< br >}}  |
-| Wednesday | Project toolkit | WedUp 7 |
-| 8 | Wednesday | Project toolkit | WedUp 8 |
-| 9 | Week of | Project toolkit | Arrange mentor meeting 5 |
-| Tuesday | Project toolkit | Assemble photos and materials; provide 3 images for debrief presentation during following class |
-| Wednesday | Project toolkit | WedUp 9 |
-| Friday | Host portfolio | Full set of on-site materials |
-| 10 |
-| Week of | Prep/logistics | Submit trip expenses |
-| Tuesday | Host portfolio | Send mentor plan for project wrap-up |
-| Wednesday | Project toolkit | WedUp 10 |
-| Friday | Project toolkit | One-page executive summary |
-| 11 | Wednesday | Project toolkit | WedUp 11 |
-| Friday | Sloan portfolio | Completed project distilling learning from the field |
-| 12 |
-| Wednesday | Project toolkit | WedUp 12 |
-| Friday | Host portfolio | Final deliverables: project wrap-up component, and open letter to host |
-| 13 | Tuesday | Project toolkit | Student survey about team, project, host, and self |
-| Wednesday | Project toolkit | WedUp 13 |
-| Thursday | Project toolkit | Poster created using material from executive summary, organizational profile, images, and other content
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+CATEGORIES
+{{< thclose >}}
+{{< thopen >}}
+DELIVERABLES / ACTION STEPS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Over IAP
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Select and read a global health book from the reading list
+
+Complete introductory emails and calls with the host; conduct the hand-off meeting
+
+Complete the quick visa survey
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Week of  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Make a travel medicine appointment
+
+Assemble Letter of Invitation templates for the team; send to host
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Arrange mentor meeting 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Individual
+{{< tdclose >}}
+{{< tdopen >}}
+Professional development plan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational profile
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Week of  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Research and plan visa application
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sloan portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Define project distilling learning from the field with teammate; integrate into workplan
+
+Review photo and video guide.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Workplan draft
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week of  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Arrange mentor meeting 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Arrange air tickets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Send workplan to host and copy mentor; obtain host agreement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Week of
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Make lodging arrangements with host
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thursday
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Check in with Sloan Action Learning and Sloan Financing & Accounting staff on trip expenses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Country briefing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week of  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Send outline/draft interim study to mentor
+
+Arrange mentor meeting 3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Review packing and preparation guide
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Annotated bibliography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Week of  
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Arrange mentor meeting 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Provide Sloan Action Learning with contact information
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Pre-trip interim study
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week of
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Check in with course team upon arrival
+
+Work with mentor for visit logistics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Week of
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Arrange mentor meeting 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tuesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Assemble photos and materials; provide 3 images for debrief presentation during following class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Full set of on-site materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week of
+{{< tdclose >}}
+{{< tdopen >}}
+Prep/logistics
+{{< tdclose >}}
+{{< tdopen >}}
+Submit trip expenses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tuesday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Send mentor plan for project wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+One-page executive summary
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Sloan portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Completed project distilling learning from the field
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Friday
+{{< tdclose >}}
+{{< tdopen >}}
+Host portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+Final deliverables: project wrap-up component, and open letter to host
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Tuesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Student survey about team, project, host, and self
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wednesday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+WedUp 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thursday
+{{< tdclose >}}
+{{< tdopen >}}
+Project toolkit
+{{< tdclose >}}
+{{< tdopen >}}
+Poster created using material from executive summary, organizational profile, images, and other content
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

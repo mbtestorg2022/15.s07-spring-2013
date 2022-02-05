@@ -9,9 +9,37 @@ uid: 01b61425-8619-596a-c333-24796b9e4e49
 
 _In this section, Dr. Sastry shares the intentions behind the three components of the pre-trip [assignments]({{< baseurl >}}/pages/assignments) that the student teams deliver to their respective host organizations._
 
-| RESOURCES FOR Mentor Meetings |
-| --- |
-|  {{< br >}}{{< br >}} In preparing for the trip, as well as in reflecting upon the on-site work, students benefit from the meetings that they have with their faculty mentor. {{< br >}}{{< br >}} For mentors: {{< br >}}{{< br >}} *   [Mentor Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-template){{< br >}}*   [Mentor Meeting Schedule and Details (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-schedule) {{< br >}}{{< br >}} For students: {{< br >}}{{< br >}} *   [Student Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_student-template) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+RESOURCES FOR Mentor Meetings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+In preparing for the trip, as well as in reflecting upon the on-site work, students benefit from the meetings that they have with their faculty mentor.
+
+For mentors:
+
+*   [Mentor Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-template)
+*   [Mentor Meeting Schedule and Details (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-schedule)
+
+For students:
+
+*   [Student Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_student-template)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Work Plan
 ---------

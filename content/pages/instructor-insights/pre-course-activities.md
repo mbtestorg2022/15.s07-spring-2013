@@ -36,13 +36,93 @@ The course has a dual stream of inputs. We have the students who are interested 
 
 The following table presents the five focus areas in which projects are offered, and where _GlobalHealth Lab_ provides the most potential impact for host organizations.
 
-| Focus Area | Description |
-| --- | --- |
-| Operations |  {{< br >}}{{< br >}} *   To analyze and refine daily operations, processes, and staff roles{{< br >}}*   To improve the efficiency and effectiveness of healthcare delivery {{< br >}}{{< br >}}  |
-| Strategy & Business Models |  {{< br >}}{{< br >}} *   To consider how the organization’s strategy enables its mission, values, and goals{{< br >}}*   To create entrepreneurial business models that improve financial sustainability{{< br >}}*   To explore open prospects for new revenue generation, and novel lines of business {{< br >}}{{< br >}}  |
-| Technology Adoption |  {{< br >}}{{< br >}} *   To help the organization utilize new technologies that fit their needs{{< br >}}*   To examine the requirements, utility, features, and implementation of such technologies {{< br >}}{{< br >}}  |
-| Marketing |  {{< br >}}{{< br >}} *   To identify how the organization's services or products are perceived{{< br >}}*   To understand how patients, beneficiaries, or clients make decisions and value the services offered{{< br >}}*   To assess utilization rates and help create materials to increase demand for services {{< br >}}{{< br >}}  |
-| Management |  {{< br >}}{{< br >}} *   To analyze the organization's management on a general level{{< br >}}*   To deliver advice designed to improve how the organization uses its resources and addresses needs {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Focus Area
+{{< thclose >}}
+{{< thopen >}}
+Description
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Operations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   To analyze and refine daily operations, processes, and staff roles
+*   To improve the efficiency and effectiveness of healthcare delivery
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Strategy & Business Models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   To consider how the organization’s strategy enables its mission, values, and goals
+*   To create entrepreneurial business models that improve financial sustainability
+*   To explore open prospects for new revenue generation, and novel lines of business
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technology Adoption
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   To help the organization utilize new technologies that fit their needs
+*   To examine the requirements, utility, features, and implementation of such technologies
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Marketing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   To identify how the organization's services or products are perceived
+*   To understand how patients, beneficiaries, or clients make decisions and value the services offered
+*   To assess utilization rates and help create materials to increase demand for services
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Management
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   To analyze the organization's management on a general level
+*   To deliver advice designed to improve how the organization uses its resources and addresses needs
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Matching Process
 ----------------

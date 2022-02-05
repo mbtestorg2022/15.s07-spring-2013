@@ -23,9 +23,35 @@ Relationship Management
 
 When we plan projects, we want to have more projects than student teams so that students can choose to work in an area of interest. This also means, inevitably, that some of our partners will be disappointed, and that is something I take very seriously because they put work into this. I think very carefully about how many excess projects I want to have, how I will manage that disappointment, what it will mean for unselected partners, and our relationship, and so on. This is one of the hardest parts of running a class like this.
 
-| MIT Connections |
-| --- |
-|  {{< br >}}{{< br >}} *   [Innovations for International Health](http://iihlab.wordpress.com/){{< br >}}*   [Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/){{< br >}}*   [The Harvard-MIT Division of Health Sciences & Technology](http://hst.mit.edu/){{< br >}}*   [Sustainability@MIT Sloan](http://mitsloan.mit.edu/sustainability/){{< br >}}*   [Legatum Center for Development & Entrepreneurship](http://www.lcde.org/){{< br >}}*   [XPrize Lab @ MIT](http://web.mit.edu/xprize){{< br >}}*   [MIT Public Service Center](http://web.mit.edu/mitpsc/index.html){{< br >}}*   [The Broad Institute](http://www.broad.mit.edu/index.html) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MIT Connections
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   [Innovations for International Health](http://iihlab.wordpress.com/)
+*   [Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/)
+*   [The Harvard-MIT Division of Health Sciences & Technology](http://hst.mit.edu/)
+*   [Sustainability@MIT Sloan](http://mitsloan.mit.edu/sustainability/)
+*   [Legatum Center for Development & Entrepreneurship](http://www.lcde.org/)
+*   [XPrize Lab @ MIT](http://web.mit.edu/xprize)
+*   [MIT Public Service Center](http://web.mit.edu/mitpsc/index.html)
+*   [The Broad Institute](http://www.broad.mit.edu/index.html)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I realize what I have created is a very high-touch course with many steps and interactions, and I think that is different. Some other project-based courses are more hands-off for the instructor, where the students and the hosts sort out everything, and that has its benefits too. I just do not think we can do that easily in GlobalHealth Lab because every year we try to partner with organizations that we have never worked or liaised with before. This means that we actually have to do quite a lot of development, and invest a lot of our own time and funds in each project. I appreciate that I get the chance to be involved in every project and visit so many of the sites.
 
