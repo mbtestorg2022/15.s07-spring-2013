@@ -8,6 +8,7 @@ image_metadata:
   credit: "Map data \xA92013 Google. All rights reserved. This content is excluded\
     \ from our Creative Commons license. For more information, see http://ocw.mit.edu/help/faq-fair-use/"
   image-alt: Map of Africa and India with destinations marked.
+parent_uid: e7144194-7217-3f8e-4991-6a06d77ad9a6
 resourcetype: Image
 title: MIT15_S07S13_project-map.jpg
 uid: 6fbcebb7-9bc5-23eb-b6f4-4c46df9a670e

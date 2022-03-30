@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 resourcetype: Image
 title: 15-S07_classroom-1.png
 uid: 21592522-c891-7ca9-17b7-82b21fc7eb87

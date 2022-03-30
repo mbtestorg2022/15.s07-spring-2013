@@ -11,6 +11,7 @@ image_metadata:
   credit: Courtesy of Ali S. Kamil, Dmitriy E. Lyan, MIT Student, and Nicole Yap.
     Used with permission.
   image-alt: A system dynamics service pressure loop.
+parent_uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 resourcetype: Image
 title: MIT15_S07S13_lvpei.jpg
 uid: 48257644-74c9-5ad4-6589-715d7184d072

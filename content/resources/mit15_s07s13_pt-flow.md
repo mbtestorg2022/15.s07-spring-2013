@@ -9,6 +9,7 @@ image_metadata:
   credit: Figure courtesy of Ali S. Kamil, Dmitriy E. Lyan, Nicole Yap, and MIT Student.
     Used with permission.
   image-alt: A timetable of scheduled patient operations.
+parent_uid: 01b61425-8619-596a-c333-24796b9e4e49
 resourcetype: Image
 title: MIT15_S07S13_pt-flow.jpg
 uid: 232abddd-b939-5ec4-4b45-a193095f41d2

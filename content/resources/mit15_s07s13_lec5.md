@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding data and measurement.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-s07-globalhealth-lab-spring-2013/7b93625fadd934325c4498b49d4066f3_MIT15_S07S13_lec5.pdf
 file_type: application/pdf
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: 'Lecture 5 Slides: Data and Measurement'
 uid: 7b93625f-add9-3432-5c44-98b49d4066f3

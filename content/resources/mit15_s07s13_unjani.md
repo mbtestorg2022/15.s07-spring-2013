@@ -12,6 +12,7 @@ image_metadata:
   credit: Photograph courtesy of Korn Chinsawananon, Kari Hodges, Sora Bae Kim, and
     Nicholas Sze. Used with permission.
   image-alt: Patients sitting outside of a clinic.
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Image
 title: MIT15_S07S13_unjani.jpg
 uid: 75054694-0115-1bd0-1b3c-303ee6f0ea30

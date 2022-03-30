@@ -9,6 +9,7 @@ image_metadata:
     to a panel of esteemed guests.
   credit: Image courtesy of MIT OpenCourseware.
   image-alt: Students speaking with an invited guest.
+parent_uid: e702a1f5-1b29-364d-5e70-ac34ffea7063
 resourcetype: Image
 title: MIT15_S07S13_class-finale.jpg
 uid: 286bcf15-bb93-2cfc-7751-e148ff62b9bf

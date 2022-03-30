@@ -8,7 +8,7 @@ uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 
 The project materials presented below are courtesy of Ali S. Kamil, Dmitriy E. Lyan, Nicole Yap, and MIT Student, and are used with permission.
 
-![A system dynamics service pressure loop.](/courses/sloan-school-of-management/15-s07-globalhealth-lab-spring-2013/projects/l-v-prasad-eye-institute/MIT15_S07S13_lvpei.jpg)
+{{< resource "48257644-74c9-5ad4-6589-715d7184d072" >}}
 
 The team used a system dynamics approach to identify key policies and causal relationships within LVPEI’s operations that contributed to increased patient waiting time. They presented five short-term, actionable recommendations and five long-term considerations for the hospital to improve its operations.
 
